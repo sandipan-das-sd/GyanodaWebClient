@@ -19,7 +19,7 @@ const Page: FC<Props> = (props) => {
     <>
       <Heading
         title="Gyanoda"
-        description="Gyanoda is a platform for students to learn and get help from teachers"
+        description="Gyanoda: Your ultimate platform for All-India competitive exam preparation. Access comprehensive past years' solutions with detailed video explanations, attend expert-led doubt clearing classes, and practice with realistic mock tests. Elevate your exam performance with our innovative learning tools and personalized guidance for various competitive exams across India."
         keywords="WBJEE, NEET, Phy..."
       />
       <div>
